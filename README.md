@@ -8,7 +8,7 @@ Easily send messages directly to your Discord channels using Webhooks.
 - `tkinter` and `discord_webhook` libraries (install with `pip install tkinter discord_webhook`).
 
 **Usage:**  
-1. [Download the script](link to your script).
+1. [Download the script](https://github.com/Rin-ngl/Python-Discord-WebHook/blob/main/dishook.py).
 2. Install the required libraries using the provided command.
 3. Run the script and start integrating Discord notifications into your Python projects!
 
