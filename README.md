@@ -1,4 +1,4 @@
-# 🚀 Dishook
+# Dishook
 
 A dark-themed GUI application built with Python and CustomTkinter for sending messages to Discord channels via webhooks.
 
@@ -46,7 +46,7 @@ If you haven't created a webhook yet:
     *   **Embed Fields Tab:** Add inline data fields (great for stats or lists).
 4.  **Send:** Click **🚀 Send Message**.
 
-## ⚙️ Configuration Details
+## Configuration Details
 
 | Feature | Description |
 | :--- | :--- |
