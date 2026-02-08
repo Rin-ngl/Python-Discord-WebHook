@@ -1,2 +1,4 @@
 customtkinter
 discord-webhook
+pillow
+requests
